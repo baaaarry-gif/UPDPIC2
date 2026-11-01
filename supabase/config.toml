@@ -1,0 +1,2 @@
+[functions.passcode-login]
+verify_jwt = false

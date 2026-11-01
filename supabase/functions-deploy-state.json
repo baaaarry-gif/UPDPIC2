@@ -1,0 +1,13 @@
+{
+  "projectId": "72184387",
+  "functions": {
+    "passcode-login": {
+      "hasChanged": false,
+      "hash": "9fdc4cfb6ed699eb58571db4ff1031a35e99a3bf6c1fbb08666de5d5c705b4e9"
+    },
+    "story-share": {
+      "hasChanged": false,
+      "hash": "3e27f5842abcd90c369fd9c387b09c0b7530b9f880f840d6837426e1a1bf5ab8"
+    }
+  }
+}
